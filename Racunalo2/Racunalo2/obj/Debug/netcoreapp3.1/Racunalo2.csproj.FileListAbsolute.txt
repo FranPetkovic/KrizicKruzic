@@ -1,0 +1,16 @@
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\bin\Debug\netcoreapp3.1\Racunalo2.exe
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\bin\Debug\netcoreapp3.1\Racunalo2.deps.json
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\bin\Debug\netcoreapp3.1\Racunalo2.runtimeconfig.json
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\bin\Debug\netcoreapp3.1\Racunalo2.runtimeconfig.dev.json
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\bin\Debug\netcoreapp3.1\Racunalo2.dll
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\bin\Debug\netcoreapp3.1\Racunalo2.pdb
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.Form1.resources
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.AssemblyInfoInputs.cache
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.AssemblyInfo.cs
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.dll
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.pdb
+C:\Users\ucenik\source\repos\Racunalo2\Racunalo2\obj\Debug\netcoreapp3.1\Racunalo2.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Racunalo2/1.0.0": {
+        "runtime": {
+          "Racunalo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Racunalo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
